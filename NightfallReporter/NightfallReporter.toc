@@ -1,0 +1,9 @@
+## Interface: 20400
+## Title: Nightfall Reporter
+## Notes: Reports when Spell Vulnerability debuff is applied to the target. Usage: /nfr
+## Author: Siarkowy
+## Version: 1.0
+## SavedVariables: NightfallReporterDB
+
+core.lua
+slash.lua
